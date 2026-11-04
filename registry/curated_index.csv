@@ -1,0 +1,5 @@
+Title,ArXiv ID,First Author,Affiliation,Track,Year,License Review,Owner Team,Source URL
+Adam: A Method for Stochastic Optimization,1412.6980,Diederik P. Kingma,University of Amsterdam,Academia,2014,Not required,Research,https://arxiv.org/abs/1412.6980
+BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding,1810.04805,Jacob Devlin,Google AI Language,Industry,2018,Required,Legal,https://arxiv.org/abs/1810.04805
+Language Models are Few-Shot Learners,2005.14165,Tom B. Brown,OpenAI,Industry,2020,Required,Legal,https://arxiv.org/abs/2005.14165
+An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale,2010.11929,Alexey Dosovitskiy,"Google Research, Brain Team",Industry,2020,Required,Legal,https://arxiv.org/abs/2010.11929
